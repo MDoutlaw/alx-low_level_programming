@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
-
-OBOBOB/**
-* main - Entry point
+/**
+* main - useful piece of art
 *
 * Return: Always 1 (Success)
 */
