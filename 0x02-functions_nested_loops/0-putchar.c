@@ -1,6 +1,8 @@
-0-putchar.c CODE
-
-
+#include "main.h"
+	/**
+	 * main - print _putchar
+	 * is written by mbah
+	 * Return: 0
 #include "main.h"
 	/**
 	 * main - print _putchar
